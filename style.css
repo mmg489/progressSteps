@@ -58,3 +58,7 @@ body {
     transition: .4s ease;
 }
 
+.circle {
+    background-color: whitesmoke;
+}
+
